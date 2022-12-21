@@ -9,7 +9,7 @@ jobs:
   run_searches:
     name: Run Vinted Searches
     env: 
-      API_TOKEN: ${{ secrets.API_TOKEN }}
+      API_TOKEN: ${{ secrets.API_KEY }}
     runs-on: ubuntu-latest
     steps: 
       - name: Checkout
