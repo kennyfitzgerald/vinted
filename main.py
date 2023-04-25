@@ -18,7 +18,7 @@ search_texts = [
         'page':1, 
         'per_page':24, 
         'price_from':"", 
-        'price_to':"30", 
+        'price_to':"40", 
         'currency':"GBP", 
         'order':"newest_first"
     },
@@ -53,6 +53,23 @@ search_texts = [
         'per_page':24, 
         'price_from':"3", 
         'price_to':"60", 
+        'currency':"GBP", 
+        'order':"newest_first"
+    },
+    {
+        'search_text': 'Polar', 
+        'catalog_ids':"257", 
+        'color_ids':"",
+        'brand_ids':"", 
+        'size_ids':"209", 
+        'material_ids':"",
+        'video_game_rating_ids':"", 
+        'status_ids':"", 
+        'is_for_swap':0,
+        'page':1, 
+        'per_page':24, 
+        'price_from':"3", 
+        'price_to':"80", 
         'currency':"GBP", 
         'order':"newest_first"
     },
