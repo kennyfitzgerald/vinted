@@ -74,8 +74,8 @@ search_texts = [
         'order':"newest_first"
     },
     {
-        'search_text': 'Nike+ACG', 
-        'catalog_ids':"77", 
+        'search_text': 'parra', 
+        'catalog_ids':"76", 
         'color_ids':"",
         'brand_ids':"", 
         'size_ids':"210,211", 
@@ -86,7 +86,24 @@ search_texts = [
         'page':1, 
         'per_page':24, 
         'price_from':"3", 
-        'price_to':"20", 
+        'price_to':"35", 
+        'currency':"GBP", 
+        'order':"newest_first"
+    },
+    {
+        'search_text': 'acg', 
+        'catalog_ids':"287", 
+        'color_ids':"",
+        'brand_ids':"", 
+        'size_ids':"", 
+        'material_ids':"",
+        'video_game_rating_ids':"", 
+        'status_ids':"", 
+        'is_for_swap':0,
+        'page':1, 
+        'per_page':24, 
+        'price_from':"3", 
+        'price_to':"30", 
         'currency':"GBP", 
         'order':"newest_first"
     }
