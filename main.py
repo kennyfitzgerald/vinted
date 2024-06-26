@@ -106,6 +106,23 @@ search_texts = [
         'price_to':"30", 
         'currency':"GBP", 
         'order':"newest_first"
+    },
+    {
+        'search_text': 'stussy birds', 
+        'catalog_ids':"76", 
+        'color_ids':"",
+        'brand_ids':"", 
+        'size_ids':"210,211", 
+        'material_ids':"",
+        'video_game_rating_ids':"", 
+        'status_ids':"", 
+        'is_for_swap':0,
+        'page':1, 
+        'per_page':24, 
+        'price_from':"3", 
+        'price_to':"45", 
+        'currency':"GBP", 
+        'order':"newest_first"
     }
 ]
 
