@@ -35,7 +35,7 @@ search_texts = [
         'page':1, 
         'per_page':24, 
         'price_from':"", 
-        'price_to':"40", 
+        'price_to':"60", 
         'currency':"GBP", 
         'order':"newest_first"
     },
